@@ -8,7 +8,6 @@ public class Onlineclass1 {
 
         int[][] C = new int[2][3];
 
-        // Adding matrices
         for (int r = 0; r < 2; r++) {
             for (int c = 0; c < 3; c++) {
                 C[r][c] = A[r][c] + B[r][c];
